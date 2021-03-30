@@ -1,0 +1,26 @@
+        body {
+          margin: 0;
+        }
+        
+        #test {
+          height: 50px;
+          width: 50px;
+          position: absolute;
+          z-index: 10;
+          border-radius: 25px; 
+          
+        }  
+        
+          #window {
+          background-color: blue;
+          height: 600px;
+          width: 600px;
+          position: relative;
+         
+        }
+        
+        .obj2 {
+          background-color: black;
+          position: relative;
+        
+        }
